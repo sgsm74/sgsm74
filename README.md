@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Saeed Ghasemi a Flutter developer
+### I'm Saeed Ghasemi
 <!--
 **sgsm74/sgsm74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

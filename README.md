@@ -3,8 +3,6 @@
 ### I'm Saeed Ghasemi
 
 
-Here are some ideas to get you started:
-
 🔭 &nbsp; I’m currently working as a Flutter Developer.\
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\
 💼 &nbsp; Flutter developer and PHP developer.\

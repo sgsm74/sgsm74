@@ -5,13 +5,9 @@
 
 Here are some ideas to get you started:
 
-🔭 &nbsp; I’m currently learning Flutter Application Development.\
+🔭 &nbsp; I’m currently working as a Flutter Developer.\
 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.\
-🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.\
-💼 &nbsp; Android developer and front-end web developer.\
-🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .\
-✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.\
-☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.\
+💼 &nbsp; Flutter developer and PHP developer.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at saeed.razii93@gmail.com! I'll try to respond as soon as I can.\
 <!--📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!-->

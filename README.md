@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 ![Flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter&logoColor=5BC3EF)&nbsp;
+![Swift](https://img.shields.io/badge/-swift-05122A?style=flat&logo=swift&logoColor=F05137)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=F05340)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=AEB2D5)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;

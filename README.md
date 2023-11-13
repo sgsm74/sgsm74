@@ -16,15 +16,6 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=Laravel&logoColor=F05340)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=AEB2D5)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/sgsm74">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sgsm74&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sgsm74&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">

@@ -35,4 +35,3 @@
 <a href="https://www.twitter.com/sgsm74/"><img src="https://img.shields.io/badge/twitter-%23179AEA.svg?style=plastic&logo=twitter&logoColor=white" alt="Twitter"/></a>
 	<a href="https://t.me/sgsm74/"><img src="https://img.shields.io/badge/telegram-%230088CC.svg?style=plastic&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </p>
-
